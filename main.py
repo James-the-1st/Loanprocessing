@@ -3,7 +3,7 @@ credit_score = int(input("Enter your credit score: "))
 annual_income = float(input("Enter your annual income: "))
 loan_amount = float(input("Enter the loan amount you're requesting: "))
 # Define the loan qualification criteria
-min_credit_score = 700
+min_credit_score = 650
 min_annual_income = 25000
 max_loan_amount = 100000
 
